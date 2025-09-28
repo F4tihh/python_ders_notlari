@@ -14,5 +14,5 @@ while tahmin!=hedef :
     elif tahmin < hedef :
         print("tahmininz küçük")
     
-    else :
-        print("tahminiinz doğru ")         
+
+print("tahminiinz doğru ")         
