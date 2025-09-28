@@ -1,0 +1,18 @@
+import random 
+
+hedef =  random.randint(1,100)
+
+tahmin=0
+
+while tahmin!=hedef :
+    
+    tahmin=int(input("tahmin gir : "))
+    
+    if tahmin > hedef:
+        print("tahminiinz büyük")
+    
+    elif tahmin < hedef :
+        print("tahmininz küçük")
+    
+    else :
+        print("tahminiinz doğru ")         
