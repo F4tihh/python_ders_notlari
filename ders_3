@@ -1,1 +1,8 @@
-sayi=10
+x= 7 
+
+if x > 4 :
+
+  print("4 ten büyük ")
+  
+else :
+    print(" 4 ve 4 ten küçük")  
